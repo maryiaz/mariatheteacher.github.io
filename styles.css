@@ -1,7 +1,7 @@
 body {
     min-width: 570px;
     margin: 0;
-    font-size: 50px;
+    font-size: 40px;
     font-family: "Arial", sans-serif;
     font-weight: bold;
     color: #ffffff;
@@ -9,20 +9,20 @@ body {
 }
 
 .container {
-  padding-top: 20%;
+  padding-top: 5%;
   text-align: center;
 }
 
 .container p {
     text-shadow:
-        3px -3px 0 #7fdbff,
-        6px -6px 0 #39cccc,
-        9px -9px 0 #3d9970,
-        12px -12px 0 #2ecc40,
-        15px -15px 0 #01ff70,
-        18px -18px 0 #ffdc00,
-        21px -21px 0 #ff851b,
-        24px -24px 0 #ff4136,
-        27px -27px 0 #f012be,
-        30px -30px 0 #b10dc9;
+        2px -2px 0 #7fdbff,
+        4px -4px 0 #39cccc,
+        6px -6px 0 #3d9970,
+        8px -8px 0 #2ecc40,
+        10px -10px 0 #01ff70,
+        12px -12px 0 #ffdc00,
+        14px -14px 0 #ff851b,
+        16px -16px 0 #ff4136,
+        18px -18px 0 #f012be,
+        20px -20px 0 #b10dc9;
 }
